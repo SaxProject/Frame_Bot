@@ -12,7 +12,7 @@
  *    		 - Added 4mm for create more space to place a motor and wire.      
  *         
  * Originally by Matteo Saccaro, 2016.
- * Dual licenced under Creative Commons Attribution-Share Alike 3.0 and LGPL2 or later
+ * Attribution-Share Alike 3.0
  *
  * **************** */
 
